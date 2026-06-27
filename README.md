@@ -37,12 +37,14 @@ This repo is published with GitHub Pages from the `main` branch:
 
 ## Editing content
 
-- **Station names** — search `To be announced` in `index.html` to add the women in
-  computer science each cart is named after.
+- **Copy** — all text lives directly in `index.html`; edit the relevant `<section>`.
+- **Cart names** — the women-in-computing names are mentioned in the "The pilot"
+  section (`#pilot`). Add the names there as they are confirmed.
+- **Budget** — the total is the `.budget-figure` in the `#budget` section.
 - **Images** — replace files in `assets/img/` (keep the same names, or update the
-  `src` attributes). `og-image.jpg` is the social-media preview.
-- **Contact** — the "Contact the team" button links to a `mailto:` in `index.html`.
+  `src` attributes). `og-image.jpg` is the social-media share preview; if the repo
+  or username changes, update the absolute URLs in the `og:`/`twitter:` meta tags.
 
 ---
 
-© 2026 CTU · Sustainable. Flexible. Beautiful.
+© 2026 Czech Technical University in Prague · Self-Sustainable Smart Mobile Gardens.
