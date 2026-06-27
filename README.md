@@ -22,7 +22,7 @@ python3 -m http.server 8000
 index.html              # single-page site
 assets/css/styles.css   # CTU-institutional theme (dark blue + green accents)
 assets/js/main.js       # mobile nav + active-section highlighting
-assets/img/             # infographic, courtyard render, social preview
+assets/img/             # field-sketch (hero), courtyard render, social preview
 .nojekyll               # tell GitHub Pages to skip Jekyll processing
 ```
 
