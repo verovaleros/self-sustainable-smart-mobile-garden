@@ -263,6 +263,10 @@ p:last-child { margin-bottom: 0; }
 .colophon dd {
   margin: 0; font-size: .95rem; color: var(--ink); line-height: 1.5;
 }
+.colophon-by {
+  display: inline-block; margin-top: 4px;
+  font-size: .85rem; color: var(--muted);
+}
 
 /* ---------- Responsive ---------- */
 @media (max-width: 860px) {
